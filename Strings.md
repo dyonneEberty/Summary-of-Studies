@@ -1,4 +1,4 @@
-```markdown
+
 # Comparação entre String, StringBuilder e StringBuffer em Java
 
 Vamos explorar as principais classes para manipulação de texto em Java, suas particularidades e quando usar cada uma.
