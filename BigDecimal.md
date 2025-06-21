@@ -1,4 +1,4 @@
-```markdown
+
 # Classe `BigDecimal` em Java
 
 ## 📌 Importância
